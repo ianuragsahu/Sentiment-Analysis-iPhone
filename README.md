@@ -1,2 +1,2 @@
 # Sentiment-Analysis-iPhone
-Performing Sentiment Analysis for iPhone 15, and comparing with iPhone 14
+Analyzing public interest in the new flagship iPhone involves sentiment analysis of comments and reviews, gauging emotional impact on consumers. Additionally, topic modeling through a word cloud identifies popular discussions, while a comparison with iPhone 14 delves into consumer preferences and concerns. The final recommendation aims to synergize Apple's team knowledge with consumer input for a successful iPhone 16 launch
